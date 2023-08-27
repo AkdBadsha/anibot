@@ -576,7 +576,7 @@ async def connect_(client: Client, message: Message, mdata: dict):
                     text=(
                         "Channel already connected"
                         +"\nIf someone else has access to it who doesn't own "
-                        +"the channel, contact @hanabi_support"
+                        +"the channel, contact @Whitebeard_Community"
                     )
                 )
                 return
