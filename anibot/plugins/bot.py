@@ -729,7 +729,7 @@ async def feed_(client: Client, message: Message, mdata: dict):
     await client.send_message(
         mdata['chat']['id'],
         f"For issues or queries please contact "
-        +f"@{owner} or join @hanabi_support"
+        +f"@{owner} or join @Whitebeard_Community"
     )
 
 ###### credits to @NotThatMF on tg since he gave me the code for it ######
